@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cerbul
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning how to code different types of autonomy 
 - 📫 @the_cerbi
 
 <!---
